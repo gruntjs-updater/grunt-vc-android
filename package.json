@@ -1,0 +1,42 @@
+{
+  "name": "grunt-vc-android",
+  "description": "Updates android applications manifest fileinfo application version code and name. Supports nightly increment and also support for semver.'",
+  "version": "0.0.1",
+  "homepage": "https://github.com/rajatpandit/grunt-vc-android",
+  "author": {
+    "name": "Rajat Pandit",
+    "email": "rp@rajatpandit.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rajatpandit/grunt-vc-android.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rajatpandit/grunt-vc-android/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/rajatpandit/grunt-vc-android/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.4"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "async": "^0.9.0",
+    "semver": "^2.3.0"
+  }
+}
