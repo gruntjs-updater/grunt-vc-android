@@ -1,7 +1,7 @@
 {
   "name": "grunt-vc-android",
   "description": "Updates android applications manifest fileinfo application version code and name. Supports nightly increment and also support for semver.'",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/rajatpandit/grunt-vc-android",
   "author": {
     "name": "Rajat Pandit",
